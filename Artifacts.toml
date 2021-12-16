@@ -1,99 +1,143 @@
 [[Serd]]
 arch = "aarch64"
-git-tree-sha1 = "bfaafd51760d9ade7753639ca53a14316b89bf12"
-libc = "glibc"
-os = "linux"
-
-    [[Serd.download]]
-    sha256 = "5d7dce580786c8fa36362badbd9267f308b90098a37dc962f918c3fb5b174c28"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.aarch64-linux-gnu.tar.gz"
-[[Serd]]
-arch = "aarch64"
-git-tree-sha1 = "9f28bac57920aaf17a8e6ef787af8cee6958c107"
-libc = "musl"
-os = "linux"
-
-    [[Serd.download]]
-    sha256 = "400f2a3d53057a7c36fe472fe64f9d66eef29f2ea52a9aa203b8a37c3956262d"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.aarch64-linux-musl.tar.gz"
-[[Serd]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "708c9c437e7a50bb3225c3915e10e59f14738949"
-libc = "glibc"
-os = "linux"
-
-    [[Serd.download]]
-    sha256 = "3855a4ed1fb906a0f0ab119b8c51ac7a78ed9bf8011c01f744777af69f00554c"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.armv7l-linux-gnueabihf.tar.gz"
-[[Serd]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "5d9925f7b9b4b38db9d8e6cdc1fd29cf8b344a08"
-libc = "musl"
-os = "linux"
-
-    [[Serd.download]]
-    sha256 = "5c890d20b3483246f3e38e734c82b0e9c8460e3ba210cb458dbbd483b739b784"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.armv7l-linux-musleabihf.tar.gz"
-[[Serd]]
-arch = "i686"
-git-tree-sha1 = "8346c457aadff5063b6af5afe1fd4f3478817116"
-libc = "glibc"
-os = "linux"
-
-    [[Serd.download]]
-    sha256 = "8bb791849d46dd2fcef040c69f0749275e12b6140b92919a642e49b582a0d5ef"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.i686-linux-gnu.tar.gz"
-[[Serd]]
-arch = "i686"
-git-tree-sha1 = "8a2c53caafd8afa0ff2f35ce83a378f06974acf6"
-libc = "musl"
-os = "linux"
-
-    [[Serd.download]]
-    sha256 = "36d58ecd931518e7533cf589ebf16e15f52ab981530728d911fa5037cc904721"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.i686-linux-musl.tar.gz"
-[[Serd]]
-arch = "powerpc64le"
-git-tree-sha1 = "355bbf44cbe44f24ca42c5af6feae5942f4c273d"
-libc = "glibc"
-os = "linux"
-
-    [[Serd.download]]
-    sha256 = "6875f557226de4ef976fe39fdd3b0357a2eec26f4f49849eb619541be093f534"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.powerpc64le-linux-gnu.tar.gz"
-[[Serd]]
-arch = "x86_64"
-git-tree-sha1 = "6f2ded93fb2cc754e8f6b92e8d851cc7d3c4d357"
+git-tree-sha1 = "35d0f1ab7c1191fa6cd46134ebcc3a43bfc13293"
 os = "macos"
 
     [[Serd.download]]
-    sha256 = "97cce5696b30bb6d2aa15f76583ac325eedc9e9bb6190bcd766a7c2d7a1907f0"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.x86_64-apple-darwin.tar.gz"
+    sha256 = "57de8269fa0615f89da0a184b7a3a3764dd1fb9bc5ccf8c3e63d615d4dc92974"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.aarch64-apple-darwin.tar.gz"
 [[Serd]]
-arch = "x86_64"
-git-tree-sha1 = "20ba270d647f5754c30840e2d2c9f9e937498080"
+arch = "aarch64"
+git-tree-sha1 = "eedf3e0be939b9c189fe812fb2bb6259e0c88f72"
 libc = "glibc"
 os = "linux"
 
     [[Serd.download]]
-    sha256 = "2a6fc292c3188ce7b5c934066c75a580bab9229676895ff2918e720c05bf17f1"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.x86_64-linux-gnu.tar.gz"
+    sha256 = "1fd637b18515f69f0a53856867b1c51a35de910aa8446fecbf4afa78cfa62f53"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.aarch64-linux-gnu.tar.gz"
 [[Serd]]
-arch = "x86_64"
-git-tree-sha1 = "73a5d490bae7744fe0b711d48a39d96142d5a61e"
+arch = "aarch64"
+git-tree-sha1 = "f68964b395be05b57de8c33e338e71a45d68bac0"
 libc = "musl"
 os = "linux"
 
     [[Serd.download]]
-    sha256 = "23aebb8d75ea3a00e8fadf9bb62427a1a52055d8c767b078b76331f68f3fe996"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.x86_64-linux-musl.tar.gz"
+    sha256 = "20977956f5644ac5ad83e3d75278b16aa5cbd4658607108ed7567a81b5d185b3"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.aarch64-linux-musl.tar.gz"
+[[Serd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "126390dbf51623995fdc1c754bae694386cb09e5"
+libc = "glibc"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "ef1694d9ec18bf13ae6ceaa5cb98e59e4d933f82915c0ac21faaf2b9e8707363"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.armv6l-linux-gnueabihf.tar.gz"
+[[Serd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d4747e36fef55e6b5effa2a1e46ea704740a176"
+libc = "musl"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "2563563d14971c319e3ffe6043d726e1e88bb19c46274f4e1220c4881e428961"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.armv6l-linux-musleabihf.tar.gz"
+[[Serd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3c2fd18fac157141120bdb714f07b8d26df0c307"
+libc = "glibc"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "32b9f80473325abdf42ca056aa7552fe6cadf705f6bb91a9d2af39f8cd819da9"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.armv7l-linux-gnueabihf.tar.gz"
+[[Serd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b2cd3a860c2bb52b9b13385a10e1f734e5edb0b9"
+libc = "musl"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "b542115e0313211983da00fb2817c55f580390b93cb7a54463e7dd74ed293e8e"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.armv7l-linux-musleabihf.tar.gz"
+[[Serd]]
+arch = "i686"
+git-tree-sha1 = "fdea93628a67cc6e7a422f48ca9697c9edfc3389"
+libc = "glibc"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "793c4e746c7c0668732bf429ca565e08d682874e82bf2712f0c20a265de40969"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.i686-linux-gnu.tar.gz"
+[[Serd]]
+arch = "i686"
+git-tree-sha1 = "0a4f04e6fe4523f5b1a594ba21bd2dcb9958c5a3"
+libc = "musl"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "d93efe1c6abd0830ffcd0e9ff551d94b0c0fb76bda6557ac5052cd41f4ca1cd0"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.i686-linux-musl.tar.gz"
+[[Serd]]
+arch = "i686"
+git-tree-sha1 = "5464d5e6c7208891a0fd59206a41345330900682"
+os = "windows"
+
+    [[Serd.download]]
+    sha256 = "ed5b95e133c15d0e78740f24f9cb11e35cf7f6684ea625da7f5e2655469ee995"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.i686-w64-mingw32.tar.gz"
+[[Serd]]
+arch = "powerpc64le"
+git-tree-sha1 = "8d564cdee166ed0570db89df06566b379f5590c0"
+libc = "glibc"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "c0b2ad69766741aa4f50277e707a8d77d9a919982c7a38bbcabb327ab42d51dc"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.powerpc64le-linux-gnu.tar.gz"
 [[Serd]]
 arch = "x86_64"
-git-tree-sha1 = "4e4a1f4442e74fe0eb8fb9d164bdaa7de2e4d489"
+git-tree-sha1 = "9d161f393eccd83b64e4350708c00befcf517067"
+os = "macos"
+
+    [[Serd.download]]
+    sha256 = "b9c2c56b317349e784e4e562c5adb5d70a4a30fe9ca6af3b2822c3e7b33e21ac"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.x86_64-apple-darwin.tar.gz"
+[[Serd]]
+arch = "x86_64"
+git-tree-sha1 = "526fb8c228262f9488fedd465a225fbca500adac"
+libc = "glibc"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "cb0ca77b08ae863d7cfbf32c545d0e12ea6b5523aeb3d69b4ded83cfcdd280f2"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.x86_64-linux-gnu.tar.gz"
+[[Serd]]
+arch = "x86_64"
+git-tree-sha1 = "7d2acf59ffd90ec6fd5d37ee6eb9cd35c4503a2c"
+libc = "musl"
+os = "linux"
+
+    [[Serd.download]]
+    sha256 = "5f784b508e4ed5045e7df72bc14077d7b791e5ff48c7392e17be3be13c65b4a5"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.x86_64-linux-musl.tar.gz"
+[[Serd]]
+arch = "x86_64"
+git-tree-sha1 = "32de0b8fb2562b36c279e8efc12b65e7ac4729ae"
 os = "freebsd"
 
     [[Serd.download]]
-    sha256 = "272fb449c284d83e64c7c57620e5634cd21e7307c63d7bade7256570479631a6"
-    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.10+0/Serd.v0.30.10.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6fb0818d25d3493d50560927dabc013a4b5e650a2d988c9f8ca5a721b9e2ff33"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.x86_64-unknown-freebsd.tar.gz"
+[[Serd]]
+arch = "x86_64"
+git-tree-sha1 = "925c547daee8a63d8e96fa85f355c41918a6059d"
+os = "windows"
+
+    [[Serd.download]]
+    sha256 = "db1c10c8f0df6e0e7202b49d9b8cf51b919f815301dc3db5e4197950cc9102f3"
+    url = "https://github.com/JuliaBinaryWrappers/Serd_jll.jl/releases/download/Serd-v0.30.11+0/Serd.v0.30.11.x86_64-w64-mingw32.tar.gz"
